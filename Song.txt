@@ -1,3 +1,6 @@
 Added some new text
 
 Another column
+
+something new in file
+-------------------------
